@@ -18,7 +18,7 @@ export default function HeroSectionCustom() {
       <div className="relative w-full h-[60vh] md:h-[95vh]">
 
         <Image
-          src="/images/hero-12.jpg"
+          src="/images/hero-15.jpg"
           alt="Restaurant background"
           fill
           className="object-cover scale-105"

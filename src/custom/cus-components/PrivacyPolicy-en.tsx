@@ -17,8 +17,8 @@ export default function PrivacyPolicy_en() {
 
       <p className="mb-4">
         At <strong>Masala Taste of India</strong> (
-        <a href="https://www.masala-gf.de" className="text-blue-600 underline">
-          www.masala-gf.de
+        <a href="https://www.peaandfry.de" className="text-blue-600 underline">
+          www.peaandfry.de
         </a>
         ), we take your privacy seriously. This page explains how we collect, use, and protect your personal data.
       </p>
@@ -65,7 +65,7 @@ export default function PrivacyPolicy_en() {
       </p>
       <p className="mb-4">
         📧{' '}
-        <a href="mailto:info@masala-gf.de" className="text-blue-600 underline">
+        <a href="mailto:info@peaandfry.de" className="text-blue-600 underline">
           info@masala-gf.de
         </a>
       </p>

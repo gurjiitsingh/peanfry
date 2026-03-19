@@ -28,7 +28,7 @@ export default function HeroSectionSpotlight() {
 
       {/* Background Image */}
       <Image
-        src="/images/hero-12.jpg"
+        src="/images/hero-15.jpg"
         alt="Food background"
         fill
         className="object-cover scale-110"
@@ -62,8 +62,9 @@ export default function HeroSectionSpotlight() {
           <h1
             className={`${chicle.className} text-5xl md:text-7xl leading-tight mb-6`}
           >
-            Spice Up  
-            <br /> Your Cravings
+            {/* Spice Up  
+            <br /> */}
+             Pea And Fry
           </h1>
 
           {/* Subtitle */}

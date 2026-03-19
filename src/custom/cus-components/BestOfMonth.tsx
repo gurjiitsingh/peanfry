@@ -59,14 +59,14 @@ export default function BestOfMonth() {
 
   return (
     <section className=" max-w-7xl mx-auto px-4 sm:px-6 lg:px-12 ">
-      <div className="bg-[#401e05] rounded-3xl py-1 md:py-10 my-12 relative overflow-hidden select-none">
+      <div className="bg-[#326645] rounded-3xl py-1 md:py-10 my-12 relative overflow-hidden select-none">
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         {/* Header */}
         <div className="text-left mb-8 sm:mb-10">
           <div
             className={`${chicle.className} text-3xl sm:text-3xl md:text-4xl font-light text-[#ea9244] uppercase flex items-center justify-start gap-2`}
           >
-            <FaStar /> Best of the Month
+            <FaStar /> Trending Foods
           </div>
           <p className="text-[#d24a0f] text-xs sm:text-sm mt-2">
             The most ordered dishes of the last 30 days
