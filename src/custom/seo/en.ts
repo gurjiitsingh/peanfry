@@ -1,7 +1,7 @@
 export const SEO = {
-  title: "Pea And Fry – G. T. Road, Bhogpur, Punjab 144201",
+  title: "Pea And Fry –  Braunschweig-Broitzem",
   description:
-    "Authentic food at Pea and fry , G. T. Road, Bhogpur, Punjab 144201. Order online for delivery ",
+    "Authentic food at Pea and fry , Braunschweig-Broitzem. Order online for delivery ",
 };
 
 
